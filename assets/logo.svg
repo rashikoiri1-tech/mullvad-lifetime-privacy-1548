@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" fill="#0E0F0C"/>
+  
+  <!-- Mole tunneling mound replacing shackle - asymmetric rugged silhouette -->
+  <path d="M 58 108 
+           C 62 96, 70 86, 82 80 
+           C 92 75, 100 76, 108 82 
+           C 114 76, 122 71, 132 70 
+           C 144 69, 154 74, 160 82 
+           C 168 78, 178 79, 186 86 
+           C 194 93, 197 102, 196 112 
+           L 192 118 
+           L 186 112 
+           C 182 106, 176 104, 170 106 
+           L 168 112 
+           L 160 108 
+           C 156 100, 148 98, 140 100 
+           L 136 108 
+           L 126 104 
+           C 120 98, 112 98, 106 104 
+           L 102 112 
+           L 94 106 
+           C 86 102, 78 104, 74 112 
+           L 70 118 
+           L 62 114 Z" 
+        fill="#8A9A5B"/>
+  
+  <!-- Mound detail marks - tunneling texture -->
+  <path d="M 84 96 L 88 100" stroke="#0E0F0C" stroke-width="2.5" stroke-linecap="square"/>
+  <path d="M 116 88 L 120 92" stroke="#0E0F0C" stroke-width="2.5" stroke-linecap="square"/>
+  <path d="M 150 88 L 154 92" stroke="#0E0F0C" stroke-width="2.5" stroke-linecap="square"/>
+  <path d="M 172 98 L 176 102" stroke="#0E0F0C" stroke-width="2.5" stroke-linecap="square"/>
+  
+  <!-- Dirt particles / mole exit at base of mound -->
+  <polygon points="70,118 66,124 74,124" fill="#C1440E"/>
+  <polygon points="186,114 190,122 182,120" fill="#C1440E"/>
+  
+  <!-- Heavy padlock body - off-center, rugged industrial -->
+  <path d="M 72 122 
+           L 184 122 
+           L 192 130 
+           L 192 218 
+           L 184 226 
+           L 72 226 
+           L 64 218 
+           L 64 130 Z" 
+        fill="#E8E4D8"/>
+  
+  <!-- Padlock body inner bevel - industrial edge -->
+  <path d="M 78 128 L 178 128 L 184 134 L 184 212 L 178 218 L 78 218 L 72 212 L 72 134 Z" 
+        fill="none" stroke="#0E0F0C" stroke-width="4"/>
+  
+  <!-- Keyhole - bold, defiant -->
+  <circle cx="128" cy="162" r="14" fill="#0E0F0C"/>
+  <polygon points="122,170 134,170 138,198 118,198" fill="#0E0F0C"/>
+  
+  <!-- Keyhole highlight / defiance spark -->
+  <circle cx="128" cy="162" r="4.5" fill="#C1440E"/>
+  
+  <!-- Rivets on padlock body corners - industrial detail -->
+  <circle cx="80" cy="138" r="4" fill="#8A9A5B"/>
+  <circle cx="176" cy="138" r="4" fill="#8A9A5B"/>
+  <circle cx="80" cy="210" r="4" fill="#8A9A5B"/>
+  <circle cx="176" cy="210" r="4" fill="#8A9A5B"/>
+  
+  <!-- Cross rivets mid-body -->
+  <circle cx="80" cy="174" r="3" fill="#8A9A5B"/>
+  <circle cx="176" cy="174" r="3" fill="#8A9A5B"/>
+  
+  <!-- Small wordmark - barely visible, tucked bottom left -->
+  <text x="72" y="244" font-family="monospace" font-size="10" font-weight="bold" fill="#8A9A5B" letter-spacing="2">MULLVAD</text>
+</svg>
